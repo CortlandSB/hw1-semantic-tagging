@@ -1,2 +1,2 @@
-For this exercise, I replaced most of the div tags in the index.html file with more descriptive semantic tags. I used several section, article and aside tags. I replaced one set of div tags with nav tags, and updated that section in the Style.css file accordingly. Please note that I had to zoom out the webpage to fit it all in the screenshot.
+This site serves as a demo of semantic HTML features. Please note that I had to zoom out the webpage to fit it all in the screenshot.
 ![Zoomed out image of webpage](assets/images/zoomedoutscreenshot.png?raw=true)
